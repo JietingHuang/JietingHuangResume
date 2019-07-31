@@ -1,11 +1,11 @@
 {
-  "Author": "JietingHuang - Inspired by Joyee Cheung",
+  "Author": "JietingHuang - Inspired by Lxxyx",
   "Guide": [
     "照着这里面的格式填写即可",
     "PDF 会自动生成，文件名可以在 gulp.js 里改",
     "PDF 的地址，将这个文件里pdf部分改为你的PDF文件名即可"
   ],
-  "title": "繁易 - Web前端工程师",
+  "title": "简历 - Web前端工程师",
   "aside": [
     {
       "href": "https://www.zhihu.com/people/huang-jie-ting-27",
@@ -26,7 +26,7 @@
   ],
   "header": {
     "title": {
-      "name": "繁易",
+      "name": "简历",
       "job": "Web前端工程师"
     },
     "contacts": {
@@ -52,7 +52,7 @@
     "name": "东华理工大学",
     "major": "软件工程（本科）",
     "honor": [
-      "2016.09-2017.06 家园工作室 — `前端负责人`",
+      "2019.05-2019.07 乒乓圈参赛团队 — `产品负责人`",
       "`2019.03 淘系前端团队 - 最佳新人`"
     ]
   },
@@ -60,7 +60,7 @@
     "cert": [
       {
         "name": "CET-4",
-        "grade": 491,
+        "grade": 444,
         "fullmarks": 710
       }
     ],
@@ -75,7 +75,7 @@
         "time": "2019.07 - 至今"
       },
       "content": {
-        "position": "高级前端工程师",
+        "position": "Web前端工程师",
         "tasks": [
           "Node 架构"
         ]
