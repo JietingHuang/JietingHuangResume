@@ -86,7 +86,7 @@ gulp.task('clean', () => {
 gulp.task('deploy', () =>
   gulp.src('./dist/**/*').pipe(
     ghPages({
-      remoteUrl: 'git@github.com:Lxxyx/lxxyx.github.io.git',
+      remoteUrl: 'git@github.com:JietingHuang/JietingHuangResume.git',
       branch: 'master'
     })
   )
@@ -124,7 +124,7 @@ gulp.task('pdf', ['set-pdf-port', 'default', 'webserver'], async () => {
   await delay(100)
 
   await page.pdf({
-    path: './src/pdf/LxxyxResume.pdf',
+    path: './src/pdf/JietingHuang.pdf',
     format: 'A4',
     printBackground: true,
     displayHeaderFooter: false,

@@ -1,56 +1,56 @@
 {
-  "Author": "Lxxyx - Inspired by Joyee Cheung",
+  "Author": "JietingHuang - Inspired by Joyee Cheung",
   "Guide": [
     "照着这里面的格式填写即可",
     "PDF 会自动生成，文件名可以在 gulp.js 里改",
     "PDF 的地址，将这个文件里pdf部分改为你的PDF文件名即可"
   ],
-  "title": "繁易 - 高级前端工程师",
+  "title": "繁易 - Web前端工程师",
   "aside": [
     {
-      "href": "https://www.zhihu.com/people/lxxyx",
+      "href": "https://www.zhihu.com/people/huang-jie-ting-27",
       "content": "知乎"
     },
     {
-      "href": "https://segmentfault.com/u/lxxyx",
+      "href": "https://segmentfault.com/u/huangjieting",
       "content": "思否"
     },
     {
-      "href": "https://github.com/Lxxyx/LxxyxResume",
+      "href": "https://github.com/JietingHuang/JietingHuangResume",
       "content": "源代码"
     },
     {
-      "href": "./pdf/LxxyxResume.pdf",
+      "href": "./pdf/JietingHuang.pdf",
       "content": "PDF 下载"
     }
   ],
   "header": {
     "title": {
       "name": "繁易",
-      "job": "高级前端工程师"
+      "job": "Web前端工程师"
     },
     "contacts": {
-      "phone": "15579185518",
-      "mail": "Lxxyxzj@gmail.com",
-      "wechat": "Greboxer",
+      "phone": "15770538096",
+      "mail": "541975984@qq.com",
+      "wechat": "JT541975984",
       "weibo": {
-        "href": "http://weibo.com/u/2239592792",
-        "name": "刘子健_且行且歌"
+        "href": "https://weibo.com/u/5147923467",
+        "name": "黄杰亭"
       },
       "github": {
-        "href": "https://github.com/Lxxyx",
-        "name": "Lxxyx"
+        "href": "https://github.com/JietingHuang",
+        "name": "JietingHuang"
       },
       "blog": {
-        "href": "http://www.lxxyx.win",
-        "name": "Lxxyx 的前端乐园"
+        "href": "https://github.com/JietingHuang",
+        "name": "JietingHuang"
       }
     }
   },
   "education": {
-    "time": "2014-2018",
-    "name": "南昌大学",
-    "major": "人力资源管理（本科）",
+    "time": "2015-2019",
+    "name": "东华理工大学",
+    "major": "软件工程（本科）",
     "honor": [
       "2016.09-2017.06 家园工作室 — `前端负责人`",
       "`2019.03 淘系前端团队 - 最佳新人`"
