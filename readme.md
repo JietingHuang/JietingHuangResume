@@ -1,9 +1,9 @@
 # Introduction
 
-简历为仿写，原简历页面地址: [在线访问](https://resume.lxxyx.cn/)
+简历为仿写，原简历页面地址：[在线访问](https://resume.lxxyx.cn/)
 
 * 简历基于 Gulp+Scss+Jade。  
-* 访问地址：[黄杰亭 的简历](https://resume.JietingHuang.cn)(暂不可访问)
+* 访问地址：[黄杰亭 的简历](https://resume.JietingHuang.cn) (暂不可访问)
 
 **要求：Node 8.9.0 及以上**
 
